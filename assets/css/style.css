@@ -13,9 +13,9 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
     background-color: #2a607c;
     color: #ffffff;
-    display: inline-block;
 }
 
+/*header properties*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,6 +26,7 @@ body {
 }
 
 .header nav {
+    position: relative;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +34,11 @@ body {
     font-size: 20px;
 }
 
-.header nav {
+.header nav ul {
     list-style-type: none;
 }
 
-.header nav {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -49,7 +50,11 @@ a {
 
 p {
     font-size: 16px;
+
 }
+
+/*main properties*/
+/*Top Image*/
 
 .hero {
     height: 800px;
@@ -70,7 +75,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+ .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -196,6 +201,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
