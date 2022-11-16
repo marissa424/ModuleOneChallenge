@@ -19,8 +19,8 @@ You can access the github repository from the link listed above.
 ## Usage
 Below are screen shots of what the website will look like when opened in the web browser. 
 
-    ![Top of webpage](assets/images/screenshot.png)
-    ![Bottom of webpage](assets/images/screenshot2.png)
+    [Top of webpage](assets/images/screenshot.png)
+    [Bottom of webpage](assets/images/screenshot2.png)
 
 
 ## Credits
